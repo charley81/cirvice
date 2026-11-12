@@ -63,3 +63,15 @@ _Avoid_: Owner, super admin
 **Backup Administrator**:
 An administrator delegated to process routine membership work and respond to urgent risks within the authority granted by the Primary Administrator.
 _Avoid_: Primary Administrator, moderator
+
+**Service Provider**:
+An Approved Member who offers one or more services that they personally perform. A Service Provider represents only themselves, even if they own or work for a business.
+_Avoid_: Business provider, vendor
+
+**Provider Profile**:
+The private member-facing profile that identifies one Service Provider and groups their published Service Listings. It is visible only while the Service Provider has at least one published Service Listing.
+_Avoid_: Business profile, company profile, resident directory profile
+
+**Service Listing**:
+An offer from one Service Provider for a service, skill, or talent that they personally perform.
+_Avoid_: Business listing, team listing, advertisement
