@@ -75,3 +75,31 @@ _Avoid_: Business profile, company profile, resident directory profile
 **Service Listing**:
 An offer from one Service Provider for a service, skill, or talent that they personally perform.
 _Avoid_: Business listing, team listing, advertisement
+
+**Listing Approval**:
+An administrator decision that a version of a Service Listing appears to follow Cirvice's marketplace rules. It is not verification or endorsement of the Service Provider, service, credentials, insurance, safety, legality, or quality.
+_Avoid_: Provider approval, verified listing, recommended service
+
+**Service Category Policy**:
+The counsel-reviewed classification that determines whether a type of service may be published in South Carolina and North Carolina and what conditions apply. A service not yet classified cannot be published.
+_Avoid_: Ad hoc listing approval, broad lawful-services rule
+
+**Allowed Service Category**:
+A Service Category that may be published under Cirvice's ordinary listing rules without category-specific evidence.
+_Avoid_: Approved provider, verified service
+
+**Conditional Service Category**:
+A Service Category that may be published only when its defined credential, insurance, disclosure, value-limit, or other requirements are satisfied.
+_Avoid_: Allowed Service Category, recommended service
+
+**Prohibited Service Category**:
+A Service Category that Cirvice does not permit to be offered through the marketplace, even when a particular form of the service might otherwise be lawful.
+_Avoid_: Unsupported category, pending category
+
+**Provider-Supplied Credential Claim**:
+Structured licence, certification, bond, or insurance information supplied by a Service Provider and explicitly not checked by Cirvice.
+_Avoid_: Verified credential, approved credential, trusted-provider badge
+
+**Service Publishing Restriction**:
+A temporary disciplinary restriction that hides a member's Service Listings and prevents listing submissions without removing the member's other private marketplace access.
+_Avoid_: Membership Suspension, Membership Revocation
