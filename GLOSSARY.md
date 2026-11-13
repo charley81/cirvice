@@ -12,6 +12,10 @@ _Avoid_: Homeowner, property owner
 Confirmation that a person controls the email address for an Account. It does not prove legal identity or that the person is a Current Resident.
 _Avoid_: Identity verification, resident verification
 
+**Replacement Account**:
+A new Account approved after a person loses access to the verified email address for an old Account. It does not receive the old Account's private Inquiries, messages, or administrator records.
+_Avoid_: Recovered Account, transferred Account
+
 **Approved Member**:
 A Current Resident who has completed Email Verification and has active permission to use the private marketplace.
 _Avoid_: Verified resident, vetted member
@@ -63,6 +67,30 @@ _Avoid_: Owner, super admin
 **Backup Administrator**:
 An administrator delegated to process routine membership work and respond to urgent risks within the authority granted by the Primary Administrator.
 _Avoid_: Primary Administrator, moderator
+
+**Administration Case**:
+The tracked record through which Cirvice assigns, reviews, and resolves consequential administrative work such as membership decisions, listing reviews, reports, appeals, restrictions, privacy requests, and incidents. Minor support actions do not require an Administration Case.
+_Avoid_: Support ticket, moderation case
+
+**Administration Case Urgency**:
+The operational classification of an Administration Case as Routine, Urgent, or Critical. Urgent and Critical cases permit prompt reversible action to reduce credible harm, while the Primary Administrator retains final authority.
+_Avoid_: Proof of harm, final severity finding
+
+**Case Evidence**:
+Information reviewed for an Administration Case, including relevant Cirvice records and limited text, image, or PDF material supplied with a report or appeal. Case Evidence is not a confirmed fact until the case decision says so.
+_Avoid_: Proof, public attachment
+
+**Audit Event**:
+An append-only record that states which administrator accessed private information or took an administrative action, what they did, when they did it, and why. A correction creates a new Audit Event instead of changing the original record.
+_Avoid_: Editable activity note, administrator comment
+
+**Member Privacy Request**:
+A request by a member to receive a copy of their Cirvice information, correct inaccurate information, delete their Account and information, or learn what Cirvice retained after deletion. Cirvice confirms the request through the member's Account and verified email and processes it automatically when no exception requires administrator review.
+_Avoid_: Informal support request, unrestricted database export
+
+**Retention Schedule**:
+The rules that state why Cirvice keeps each type of information, how long it keeps it, what starts the retention period, and which documented exceptions can pause deletion.
+_Avoid_: Keep indefinitely, delete when convenient
 
 **Service Provider**:
 An Approved Member who offers one or more services that they personally perform. A Service Provider represents only themselves, even if they own or work for a business.
